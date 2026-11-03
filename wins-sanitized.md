@@ -22,7 +22,7 @@ Append-only, factual, past-tense record of what shipped across sovereign Forgejo
 - 2026-06-14 — Shipped durable retry and exponential backoff for Heimdall ClickHouse batch writers (PR #612) → guaranteed zero log loss during database restarts and buffer saturation.
 - 2026-06-14 — Landed durable endpoint power-state telemetry and process-lifecycle analytics in Heimdall (PR #11, #12) → extracted reliable runtime history and 6-month utilization graphs without manual inspection.
 - 2026-06-14 — Enforced `tracked-work-gate` in Vidar CI (PR #10) → programmatically blocked untracked merges to protect main branches.
-- 2026-06-14 — Documented Argus microelectronics edge topology and hardware bench design/build (PR #6, #7) → established zero-trust hardware-to-cloud authentication before any physical edge sensor touches the LAN.
+- 2026-06-14 — Documented microelectronics development project edge topology and hardware bench design/build (PR #6, #7) → established zero-trust hardware-to-cloud authentication before any physical edge sensor touches the LAN.
 - 2026-06-15 — Shipped automated endpoint diagnostic collector in Heimdall (PR #14) → automated system health bundle extraction from managed workstations upon local link attachment.
 - 2026-06-15 — Repaired audio-app upload ingestion to protect voice profile labels (PR #88) → stopped voice sample uploads from wiping existing speaker tags.
 
@@ -116,7 +116,7 @@ Append-only, factual, past-tense record of what shipped across sovereign Forgejo
 - 2026-08-05 — Deployed `hostname-intel` network topology lookup service (PR #2) → resolved arbitrary LAN IPs and Tailscale peers to rich host, owner, and role metadata in sub-millisecond lookups.
 - 2026-08-05 — Extracted Erwin TUI and framebuffer face from Puter into a dedicated runtime package → decoupled avatar visual rendering from conversational state engine.
 - 2026-08-06 — Bootstrapped `ravenhelm-observability-rs` v0.1 Rust SDK (PR #1) → unified structured telemetry and metrics library across estate Rust tools.
-- 2026-08-06 — Unified target cluster host bindings across Argus microelectronics sensor services and UI (PR #8, #31) → synchronized deployment manifests with physical edge-node consolidation.
+- 2026-08-06 — Unified target cluster host bindings across microelectronics development project sensor services and UI (PR #8, #31) → synchronized deployment manifests with physical edge-node consolidation.
 
 ## Week of 2026-08-10
 
@@ -158,7 +158,7 @@ Append-only, factual, past-tense record of what shipped across sovereign Forgejo
 - 2026-08-31 — Published Domain Intelligence Schema as an open, platform-agnostic standard with 26 vocabularies and live Quick Start example (DIS PR #6, #7) → gave enterprises a vendor-neutral W3C RDF/SHACL standard to define agent capabilities once and run them across any LLM or orchestration substrate.
 - 2026-08-31 — Hardened unmute-mlx-bridge for public release (`cfg_coef` parity, multi-voice blending, sanitized protocol errors; PR #10) → achieved feature parity with upstream voice models.
 - 2026-08-31 — Enforced strict CI template rules (failing on editable pip installs, resolving Andvari artifact registries via internal DNS) → eliminated brittle environment builds across sovereign runners.
-- 2026-09-02 — Adopted `@ravenhelm/ui-react` OperatorShell on Argus microelectronics suite and decoupled site upstreams into declarative host contracts → unified operator surfaces across sovereign sensors and eliminated direct container compose coupling.
+- 2026-09-02 — Adopted `@ravenhelm/ui-react` OperatorShell on microelectronics development project and decoupled site upstreams into declarative host contracts → unified operator surfaces across sovereign sensors and eliminated direct container compose coupling.
 - 2026-09-02 — Shipped carrier CNAM/line-type verification CLIs (`phone-lookup`, `addr-lookup`) with Heimdall telemetry enrichment overlay → automated inbound SIP identity verification and metadata enrichment without mutating primary records.
 - 2026-09-02 — Bootstrapped Vitki next-web scaffold, Helm/Harbor/Argo deployment rails, Kyutai realtime streaming proxy, and Traefik SSO (`v0.1.1`–`v0.1.5`) → delivered self-hosted, SSO-protected real-time neural speech synthesis on K3s with zero external audio API leakage.
 - 2026-09-02 — Released Yager v0.1.2 and v0.1.3 with headless CLI, Doom-captured harness, and live Fenrir reasoning budget controls → bounded terminal coding agents with live GPU reasoning token budgets and automatic thought-container checkpointing.
@@ -192,12 +192,12 @@ Append-only, factual, past-tense record of what shipped across sovereign Forgejo
 - 2026-09-10 — Implemented Erwin living substrate runtime, Mímir compiler, and Vór Immutable Geological Evidence Ledger → gave the conversational assistant persistent, self-evolving long-term memory where every learned fact is Merkle-anchored to immutable source evidence (`Vór`) rather than hallucinated from vector similarity.
 - 2026-09-10 — Scaffolded Runestack UI with Gullveig layout and Zod Mímir workflow engine → let operators visually inspect, validate, and govern Mímir agent workflows in the browser before deploying them to the cluster.
 - 2026-09-11 — Bootstrapped Amp Live Aid / Odin's Runes with streaming audio transcription and Fenrir GPU LLM synthesis → streamed live local speech-to-text into on-premise GPU inference to surface sub-second architectural context and talking points during live calls.
-- 2026-09-11 — Wired Argus microelectronics UI client mTLS to audio-app with SPIFFE SAN validation and hardened HA transcript ingest → secure zero-trust audio streaming and resilient transcript display.
+- 2026-09-11 — Wired microelectronics development project UI client mTLS to audio-app with SPIFFE SAN validation and hardened HA transcript ingest → secure zero-trust audio streaming and resilient transcript display.
 - 2026-09-11 — Cut over Yager to Ullr identity (ADR 0014, CRT splash, `v0.1.12`) → separated the sovereign Rust execution harness (`Ullr`) from conversational persona identities (`Erwin`) so multiple personas share one hardened engine.
 - 2026-09-11 — Landed CCC Mímir v0.7.0 workflow engine and SurrealDB multi-model pipeline (ADR-0001 accepted) → unified fragmented relational tables, graph edges, and transcripts into a single Mímir-governed SurrealDB multi-model intelligence pipeline.
 - 2026-09-12 — Deployed The Work FastAPI + SQLite backend with live docket ingest (`/decisions/answers`) → turned ephemeral chat approvals into an auditable SQLite decision ledger that unblocks waiting agent lanes the instant an answer is recorded.
 - 2026-09-12 — Released Ullr v0.1.13 with GFM table rendering and stream error chain capture → readable tabular outputs and detailed failure diagnostics in terminal sessions.
-- 2026-09-12 — Overhauled Argus microelectronics TacticalMap with native gpsd feeds and Esri Dark Matter basemaps → high-performance tactical geo-visualization on the common operating picture.
+- 2026-09-12 — Overhauled microelectronics development project TacticalMap with native gpsd feeds and Esri Dark Matter basemaps → high-performance tactical geo-visualization on the common operating picture.
 - 2026-09-13 — Brought Galdr iOS app into custody with XcodeGen, Keychain bearer token auth, and session controls → enabled one-tap encrypted field audio capture on iPhone that streams directly into the sovereign transcription and task-mining pipeline.
 - 2026-09-13 — Added Google Antigravity (`agy`) harness support end-to-end in Doomstadt → made agent orchestration harness-agnostic so Claude Code, Codex, and Antigravity slices operate under one unified supervisor and worktree custody model.
 - 2026-09-13 — Built `nate-status` presence daemon and wired live presence indicator into The Work masthead → let the agent fleet automatically adapt its escalation routing between silent background execution and live interactive prompts based on whether the operator is at the keyboard.
@@ -220,7 +220,7 @@ Append-only, factual, past-tense record of what shipped across sovereign Forgejo
 - 2026-09-17 — Scaffolded Valkyrie with Postgres enrollment endpoints → replaced third-party auth dependencies with a dedicated Rust/Postgres enrollment and challenge verification daemon for human-in-the-loop approvals.
 - 2026-09-18 — Migrated Fenrir LLM to zero-trust mTLS (SPIFFE SVIDs, Caddy sidecar, Vector exporter, explicit SSLContext) → secured GPU inference endpoints against unauthenticated network access.
 - 2026-09-18 — Integrated MFAA gate into Doomcourt (`court-state promote` requires WebAuthn-signed approval envelope) → eliminated unauthenticated or accidental supervisor seat elevations.
-- 2026-09-19 — Prototyped Bouquitala ("Bonquida") persona with ElevenLabs custom voice and Fenrir LLM pipeline → proved full-duplex, zero-wake-word conversational turn-taking combining local LLM reasoning with expressive custom voice synthesis.
+- 2026-09-19 — Prototyped expressive custom voice persona with ElevenLabs custom voice and Fenrir LLM pipeline → proved full-duplex, zero-wake-word conversational turn-taking combining local LLM reasoning with expressive custom voice synthesis.
 - 2026-09-19 — Deployed Fenrir mTLS readiness exporter metrics to Prometheus with Grafana alert rules → real-time observability over mTLS handshake health and caller SPIFFE identities.
 - 2026-09-19 — Bootstrapped Yggdrasil vocabulary (18 SHACL shapes, 24 fixtures, pyshacl gate) → enforced 18 W3C SHACL shapes in CI so invalid ontology or workflow definitions fail at build time before reaching any runtime.
 - 2026-09-20 — Released Domain Intelligence Schema (DIS) 1.7 (Systems layer, enforceable matrices, JSON Schema deprecation, Turtle/SHACL conformance) → replaced brittle JSON Schema drafts with mathematically verifiable W3C Turtle/SHACL conformance matrices across the Systems ontology layer.
@@ -231,8 +231,8 @@ Append-only, factual, past-tense record of what shipped across sovereign Forgejo
 
 ## Week of 2026-09-21
 
-- 2026-09-21 — Optimized Bouquitala voice synthesis pipeline (ElevenLabs Turbo v2.5, CFG 1.2, managed daemon supervision, regional transit domain corpus) → expressive regional timbre, zero latency stalls, and natural conversational cadence.
-- 2026-09-21 — Disabled inactive camera streams for Argus microelectronics suite in Frigate config → eliminated 4,300 daily ffmpeg respawns and stopped memory leaks on Ratatoskr.
+- 2026-09-21 — Optimized custom voice persona synthesis pipeline (ElevenLabs Turbo v2.5, CFG 1.2, managed daemon supervision, regional transit domain corpus) → expressive regional timbre, zero latency stalls, and natural conversational cadence.
+- 2026-09-21 — Disabled inactive camera streams for microelectronics development project in Frigate config → eliminated 4,300 daily ffmpeg respawns and stopped memory leaks on Ratatoskr.
 - 2026-09-21 — Released Doom v0.1.34 and made supervisor retrospectives mandatory on Chair handoff → programmatic enforcement of session continuity and knowledge transfer.
 - 2026-09-22 — Built Doomstadt macOS native desktop application (Swift, OLED palette, SwiftTerm tmux PTY integration, keyboard navigation, Bifrost manager, live docket answers) → replaced dozens of scattered terminal windows with a single native macOS OLED flight deck streaming live PTY muxes, fleet health, and decision dockets at 60fps.
 - 2026-09-22 — Deployed sovereign Qwen3-TTS streaming service with Ullr emotion palettes and MPS inference serialization → eliminated per-character cloud TTS bills and privacy leaks by streaming emotion-conditioned neural speech natively on Apple Silicon MPS in under a second.
@@ -269,7 +269,7 @@ Append-only, factual, past-tense record of what shipped across sovereign Forgejo
 - 2026-09-30 — Rolled out Ullr `v0.1.23` with VAD pause flush tuned to 700ms → natural conversational cadence without premature turn termination.
 - 2026-09-30 — Configured Andvari MinIO S3 and Console TLS ingress on Traefik → secure object storage access and browser management interface.
 - 2026-09-30 — Deployed Argo CD drift alarm on Norns → immediate alerting to Vidar on uncommitted cluster drift.
-- 2026-10-04 — Re-anchored Bouquitala on the current estate voice stack (PR #1, #2) → aligned persona runtime with Qwen3.6 on Fenrir, sovereign Qwen3-TTS, and canonical DNS naming.
+- 2026-10-04 — Re-anchored custom voice persona runtime on the current estate voice stack (PR #1, #2) → aligned persona runtime with Qwen3.6 on Fenrir, sovereign Qwen3-TTS, and canonical DNS naming.
 
 ## Week of 2026-10-05
 
