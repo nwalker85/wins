@@ -22,10 +22,12 @@
   "layers": 7,
   "flows_last_8_days": 25274296,
   "retention_days": 8,
-  "services_running": 83,
+  "services_running": 103,
   "services_breakdown": {
     "containers_services_host": 64,
-    "supervised_agents_workstation": 19
+    "process_compose_workstations": 17,
+    "resident_daemons_workstations": 22,
+    "note": "process-compose is the standard supervisor for local processes; containers only on the services host"
   },
   "repositories_under_custody": 238
 }
