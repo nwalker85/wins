@@ -1,0 +1,1479 @@
+[
+  {
+    "name": "app-template",
+    "kind": "archive",
+    "desc": "",
+    "last": "2026-05-13",
+    "narrated": false
+  },
+  {
+    "name": "archived__portfolio",
+    "kind": "archive",
+    "desc": "",
+    "last": "2026-02-02",
+    "narrated": false
+  },
+  {
+    "name": "claudeconfig",
+    "kind": "archive",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "engineering-standards-docs-legacy",
+    "kind": "archive",
+    "desc": "",
+    "last": "2026-01-28",
+    "narrated": false
+  },
+  {
+    "name": "import-backup",
+    "kind": "archive",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "rh",
+    "kind": "archive",
+    "desc": "",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "cloudflared-config",
+    "kind": "infra",
+    "desc": "cloudflared-config",
+    "last": "2026-10-22",
+    "narrated": true
+  },
+  {
+    "name": "matrix",
+    "kind": "infra",
+    "desc": "Matrix (Synapse) \u2014 Ravenhelm homeserver",
+    "last": "2026-10-22",
+    "narrated": true
+  },
+  {
+    "name": "norns-gitops",
+    "kind": "infra",
+    "desc": "norns-gitops",
+    "last": "2026-10-22",
+    "narrated": true
+  },
+  {
+    "name": "fenrir-config",
+    "kind": "infra",
+    "desc": "",
+    "last": "2026-10-19",
+    "narrated": false
+  },
+  {
+    "name": "homebrew-tools",
+    "kind": "infra",
+    "desc": "homebrew-tools",
+    "last": "2026-11-17",
+    "narrated": false
+  },
+  {
+    "name": "network-configs",
+    "kind": "infra",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "odin-llm-config",
+    "kind": "infra",
+    "desc": "odin-llm-config",
+    "last": "2026-10-08",
+    "narrated": false
+  },
+  {
+    "name": "op-fleet",
+    "kind": "infra",
+    "desc": "",
+    "last": "2026-08-06",
+    "narrated": false
+  },
+  {
+    "name": "repo-baselines",
+    "kind": "infra",
+    "desc": "",
+    "last": "2026-11-20",
+    "narrated": false
+  },
+  {
+    "name": "repo-bootstrap",
+    "kind": "infra",
+    "desc": "This repository defines the Ravenhelm repo bootstrap scaffold.",
+    "last": "2026-07-16",
+    "narrated": false
+  },
+  {
+    "name": "traefik-config",
+    "kind": "infra",
+    "desc": "traefik-config \u2014 AGENTS.md",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "nwalker.cc",
+    "kind": "publishing",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "wins",
+    "kind": "publishing",
+    "desc": "Authoritative instructions for AI agents working in nwalker85/wins (Shipped Capability Continuum & Public Done",
+    "last": "2026-11-23",
+    "narrated": true
+  },
+  {
+    "name": "works",
+    "kind": "publishing",
+    "desc": "Works \u2014 a dated index of things I've built",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "field-notes-substack",
+    "kind": "publishing",
+    "desc": "Field Notes \u00d7 Substack",
+    "last": "2026-09-27",
+    "narrated": false
+  },
+  {
+    "name": "hrafngrima-com",
+    "kind": "publishing",
+    "desc": "",
+    "last": "2026-10-09",
+    "narrated": false
+  },
+  {
+    "name": "linear-guidebook",
+    "kind": "publishing",
+    "desc": "Ravenhelm Linear Operating Model",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "outline-content",
+    "kind": "publishing",
+    "desc": "Outline Content",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-ai-published",
+    "kind": "publishing",
+    "desc": "ravenhelm-ai-published (GitHub, public)",
+    "last": "2026-09-06",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-co",
+    "kind": "publishing",
+    "desc": "",
+    "last": "2026-09-25",
+    "narrated": false
+  },
+  {
+    "name": "rootfifth-web",
+    "kind": "publishing",
+    "desc": "rootfifth-web is the public site for rootfifth.com. Right now that is one",
+    "last": "2026-09-25",
+    "narrated": false
+  },
+  {
+    "name": "agent-config",
+    "kind": "software",
+    "desc": "Global Agent Context",
+    "last": "2026-11-14",
+    "narrated": true
+  },
+  {
+    "name": "agentropy",
+    "kind": "software",
+    "desc": "Agentropy \u2014 Agent Mass Theory",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "althing",
+    "kind": "software",
+    "desc": "Althing \u2014 Agent Operating Context",
+    "last": "2026-11-16",
+    "narrated": true
+  },
+  {
+    "name": "andvari",
+    "kind": "software",
+    "desc": "Andvari",
+    "last": "2026-05-07",
+    "narrated": true
+  },
+  {
+    "name": "architecture",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "audio-app",
+    "kind": "software",
+    "desc": "This is NOT the Next.js you know",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "bifrost",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-15",
+    "narrated": true
+  },
+  {
+    "name": "ble-aggregator",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-07-03",
+    "narrated": true
+  },
+  {
+    "name": "control-plane",
+    "kind": "software",
+    "desc": "Repository Guidelines",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "custody",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-09-25",
+    "narrated": true
+  },
+  {
+    "name": "diagrams",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "domainintelligenceschema",
+    "kind": "software",
+    "desc": "Domain Intelligence Schema (DIS) 1.8.0",
+    "last": "2026-10-10",
+    "narrated": true
+  },
+  {
+    "name": "doomstadt",
+    "kind": "software",
+    "desc": "Doomstadt \u2014 the Doom slice engine",
+    "last": "2026-11-19",
+    "narrated": true
+  },
+  {
+    "name": "draupnir",
+    "kind": "software",
+    "desc": "draupnir",
+    "last": "2026-10-02",
+    "narrated": true
+  },
+  {
+    "name": "eat",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-11-19",
+    "narrated": true
+  },
+  {
+    "name": "edm",
+    "kind": "software",
+    "desc": "EDM (Event-Driven MCP)",
+    "last": "2026-09-23",
+    "narrated": true
+  },
+  {
+    "name": "erwin",
+    "kind": "software",
+    "desc": "Erwin \u2014 Autonomous Negentropy Agent & Cryptographic Onion-Mass Substrate",
+    "last": "2026-09-20",
+    "narrated": true
+  },
+  {
+    "name": "fenrir",
+    "kind": "software",
+    "desc": "Fenrir",
+    "last": "2026-09-29",
+    "narrated": true
+  },
+  {
+    "name": "fenrir-reason",
+    "kind": "software",
+    "desc": "Fenrir-Reason: Sovereign Rust Reasoning Daemon",
+    "last": "2026-11-21",
+    "narrated": true
+  },
+  {
+    "name": "forge-toolkit",
+    "kind": "software",
+    "desc": "forge-toolkit",
+    "last": "2026-10-22",
+    "narrated": true
+  },
+  {
+    "name": "forseti",
+    "kind": "software",
+    "desc": "Forseti",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "freyr",
+    "kind": "software",
+    "desc": "Freyr \u2014 Agent Guidance",
+    "last": "2026-10-20",
+    "narrated": true
+  },
+  {
+    "name": "frigg",
+    "kind": "software",
+    "desc": "Frigg \u2014 Agent Context",
+    "last": "2026-10-07",
+    "narrated": true
+  },
+  {
+    "name": "gjallarhorn",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-22",
+    "narrated": true
+  },
+  {
+    "name": "gna",
+    "kind": "software",
+    "desc": "Overview",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "got",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-20",
+    "narrated": true
+  },
+  {
+    "name": "gullveig",
+    "kind": "software",
+    "desc": "Gullveig (`gullveig`) \u2014 Agent Operating Context",
+    "last": "2026-11-18",
+    "narrated": true
+  },
+  {
+    "name": "heimdall",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-11-18",
+    "narrated": true
+  },
+  {
+    "name": "heimdall-mcp",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "hostname-intel",
+    "kind": "software",
+    "desc": "Hostname Intelligence Service",
+    "last": "2026-08-05",
+    "narrated": true
+  },
+  {
+    "name": "huginn",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "isip",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-06-22",
+    "narrated": true
+  },
+  {
+    "name": "kvasir",
+    "kind": "software",
+    "desc": "Kvasir",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "leaf",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-09-28",
+    "narrated": true
+  },
+  {
+    "name": "loki",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "mcp-outline",
+    "kind": "software",
+    "desc": "mcp-outline",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "message-watch",
+    "kind": "software",
+    "desc": "Message Watch",
+    "last": "2026-08-31",
+    "narrated": true
+  },
+  {
+    "name": "mothr",
+    "kind": "software",
+    "desc": "Authoritative operating context for this repo. Travels with the code; update in PRs.",
+    "last": "2026-10-22",
+    "narrated": true
+  },
+  {
+    "name": "muninn",
+    "kind": "software",
+    "desc": "Muninn",
+    "last": "2026-10-22",
+    "narrated": true
+  },
+  {
+    "name": "odinsrunes",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-11-18",
+    "narrated": true
+  },
+  {
+    "name": "photon",
+    "kind": "software",
+    "desc": "Idunn (`mde`) \u2014 Agent Operating Context",
+    "last": "2026-11-17",
+    "narrated": true
+  },
+  {
+    "name": "puter",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-11-17",
+    "narrated": true
+  },
+  {
+    "name": "ravenhelm",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-08-09",
+    "narrated": true
+  },
+  {
+    "name": "ravenhelm-observability-rs",
+    "kind": "software",
+    "desc": "Ravenhelm Observability Rust",
+    "last": "2026-10-22",
+    "narrated": true
+  },
+  {
+    "name": "ravenhelm.co",
+    "kind": "software",
+    "desc": "Agent directives for the Ravenhelm.co marketing website.",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "rig",
+    "kind": "software",
+    "desc": "Quick Facts",
+    "last": "2026-10-22",
+    "narrated": true
+  },
+  {
+    "name": "rootfifth",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-09-22",
+    "narrated": true
+  },
+  {
+    "name": "runestack",
+    "kind": "software",
+    "desc": "Runestack",
+    "last": "2026-11-20",
+    "narrated": true
+  },
+  {
+    "name": "runestack-mis",
+    "kind": "software",
+    "desc": "runestack-mis",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "snotra",
+    "kind": "software",
+    "desc": "for Forgejo (Operation Goldberg). It reviews pull requests inside Forgejo Actions,",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "transcribe-cli",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-11-23",
+    "narrated": true
+  },
+  {
+    "name": "tyr",
+    "kind": "software",
+    "desc": "T\u00fdr \u2014 the bench: judges after the deed, never the hot-path dispatcher; receipts -> V\u00f3r",
+    "last": "2026-09-14",
+    "narrated": true
+  },
+  {
+    "name": "ultradex",
+    "kind": "software",
+    "desc": "Forgejo-primary: nate/ultradex. Never push main; never merge without Nate's",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "unmute",
+    "kind": "software",
+    "desc": "Unmute",
+    "last": "2026-10-10",
+    "narrated": true
+  },
+  {
+    "name": "unmute-mlx-bridge",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-15",
+    "narrated": true
+  },
+  {
+    "name": "valkyrie",
+    "kind": "software",
+    "desc": "valkyrie",
+    "last": "2026-10-13",
+    "narrated": true
+  },
+  {
+    "name": "vedrfolnir",
+    "kind": "software",
+    "desc": "Ve\u00f0rf\u00f6lnir",
+    "last": "2026-10-22",
+    "narrated": true
+  },
+  {
+    "name": "vidar",
+    "kind": "software",
+    "desc": "vidar",
+    "last": "2026-10-15",
+    "narrated": true
+  },
+  {
+    "name": "vitki",
+    "kind": "software",
+    "desc": "Vitki is the document reader; Galdr is the audio archive.",
+    "last": "2026-10-10",
+    "narrated": true
+  },
+  {
+    "name": "web-estate-drafts",
+    "kind": "software",
+    "desc": "web-estate-drafts (Forgejo, private)",
+    "last": "2026-09-06",
+    "narrated": true
+  },
+  {
+    "name": "yager",
+    "kind": "software",
+    "desc": "Yager is a Rust/Ratatui terminal agent harness for chatting with a local lab",
+    "last": "2026-11-18",
+    "narrated": true
+  },
+  {
+    "name": "yggdrasil",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-11-21",
+    "narrated": true
+  },
+  {
+    "name": "Aesir",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "DISBuilderReplit",
+    "kind": "software",
+    "desc": "DIS Designer - Domain Intelligence Builder",
+    "last": "2025-11-07",
+    "narrated": false
+  },
+  {
+    "name": "DemoGeneration",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "FreeTakServer",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "FreeTakServer-UI",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "MyMCP",
+    "kind": "software",
+    "desc": "MyMCP",
+    "last": "2026-01-26",
+    "narrated": false
+  },
+  {
+    "name": "TheNorns",
+    "kind": "software",
+    "desc": "",
+    "last": "2025-12-04",
+    "narrated": false
+  },
+  {
+    "name": "adk-agent",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "agent-accountability-service",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-07-23",
+    "narrated": false
+  },
+  {
+    "name": "agent-api",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "agentfoundry",
+    "kind": "software",
+    "desc": "Agent Foundry",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "agentmon-rs",
+    "kind": "software",
+    "desc": "agentmon-rs",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "agentropy-experiments",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-10",
+    "narrated": false
+  },
+  {
+    "name": "agentropy-paper",
+    "kind": "software",
+    "desc": "agentropy-paper",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "agentropy-protocol",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "agentropy-strategy",
+    "kind": "software",
+    "desc": "Agentropy \u2014 Strategy & Launch (PRIVATE)",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "amp-live-aid",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "android-lab",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "argus",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "argus-ui",
+    "kind": "software",
+    "desc": "Forgejo nate/argus-ui is canonical. GitHub is a passive mirror.",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "audit-chain",
+    "kind": "software",
+    "desc": "audit-chain",
+    "last": "2026-08-18",
+    "narrated": false
+  },
+  {
+    "name": "awsdyndns",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-01-11",
+    "narrated": false
+  },
+  {
+    "name": "bsmcli",
+    "kind": "software",
+    "desc": "bsmcli",
+    "last": "2026-09-17",
+    "narrated": false
+  },
+  {
+    "name": "bug",
+    "kind": "software",
+    "desc": "WiFi observation mesh \u2014 ESP32-C3 sensors run promiscuous-mode 802.11 capture,",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "cc-monitor",
+    "kind": "software",
+    "desc": "cc-monitor",
+    "last": "2026-04-14",
+    "narrated": false
+  },
+  {
+    "name": "change-mgmt",
+    "kind": "software",
+    "desc": "Quick Facts",
+    "last": "2026-05-20",
+    "narrated": false
+  },
+  {
+    "name": "checkout-custody",
+    "kind": "software",
+    "desc": "checkout-custody",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "codex-orchestrate",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "domain-designer",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-09-13",
+    "narrated": false
+  },
+  {
+    "name": "domain-dossiers",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-08-31",
+    "narrated": false
+  },
+  {
+    "name": "donatello",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "engineeringdepartment",
+    "kind": "software",
+    "desc": "",
+    "last": "2025-11-12",
+    "narrated": false
+  },
+  {
+    "name": "erwin-clip",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-09-03",
+    "narrated": false
+  },
+  {
+    "name": "erwin-studio",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-11-14",
+    "narrated": false
+  },
+  {
+    "name": "escalation-notifier",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "fenrir-worker",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "figma-plugin",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-02-08",
+    "narrated": false
+  },
+  {
+    "name": "forgejo-runner-scheduler",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "frith",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "galdr-ios",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-09-15",
+    "narrated": false
+  },
+  {
+    "name": "heimdall-trigger",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-08-06",
+    "narrated": false
+  },
+  {
+    "name": "hlidskjalf",
+    "kind": "software",
+    "desc": "The Ravenhelm Platform",
+    "last": "2026-07-26",
+    "narrated": false
+  },
+  {
+    "name": "huginn-platform",
+    "kind": "software",
+    "desc": "huginn-platform",
+    "last": "2026-09-15",
+    "narrated": false
+  },
+  {
+    "name": "idunn",
+    "kind": "software",
+    "desc": "Idunn (`mde`) \u2014 Agent Operating Context",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "io-bakeoff",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-02-18",
+    "narrated": false
+  },
+  {
+    "name": "ios-event-catalog",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-05-25",
+    "narrated": false
+  },
+  {
+    "name": "ioslogs",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "iosmon",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "labmon",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "langmail",
+    "kind": "software",
+    "desc": "langmail",
+    "last": "2026-02-01",
+    "narrated": false
+  },
+  {
+    "name": "llm-jwt-auth",
+    "kind": "software",
+    "desc": "llm-jwt-auth",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "mfaa-ios",
+    "kind": "software",
+    "desc": "mfaa-ios",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "mfaa-spec",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-09-19",
+    "narrated": false
+  },
+  {
+    "name": "mimir-grammar",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-08",
+    "narrated": false
+  },
+  {
+    "name": "mimir-schema",
+    "kind": "software",
+    "desc": "M\u00edmir Intelligence Schema (MIS) v1.0",
+    "last": "2026-09-01",
+    "narrated": false
+  },
+  {
+    "name": "mimir-sdk",
+    "kind": "software",
+    "desc": "M\u00edmir SDK",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "mimir-sdk-ts",
+    "kind": "software",
+    "desc": "M\u00edmir TypeScript SDK",
+    "last": "2026-01-29",
+    "narrated": false
+  },
+  {
+    "name": "mimir-ts",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "minio-config",
+    "kind": "software",
+    "desc": "MinIO Object Storage",
+    "last": "2026-01-29",
+    "narrated": false
+  },
+  {
+    "name": "mlxer",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-05-06",
+    "narrated": false
+  },
+  {
+    "name": "myjarvis",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "mystique",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "mystique-web",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "neustar-lookup",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-09-02",
+    "narrated": false
+  },
+  {
+    "name": "noise-watch",
+    "kind": "software",
+    "desc": "noise-watch",
+    "last": "2026-08-06",
+    "narrated": false
+  },
+  {
+    "name": "observe",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "office-scorecard",
+    "kind": "software",
+    "desc": "Office Scorecard",
+    "last": "2026-07-02",
+    "narrated": false
+  },
+  {
+    "name": "opencode-fenrir",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-05-16",
+    "narrated": false
+  },
+  {
+    "name": "powerlog-viewer",
+    "kind": "software",
+    "desc": "PowerLog Viewer \u2014 Agent Instructions",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "project-factory",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-11-13",
+    "narrated": false
+  },
+  {
+    "name": "project-store",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "rack-elevation",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "ratatoskr-watchdog",
+    "kind": "software",
+    "desc": "ratatoskr-watchdog",
+    "last": "2026-08-28",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-agent-studio",
+    "kind": "software",
+    "desc": "Ravenhelm Agent Studio",
+    "last": "2026-01-26",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-ai",
+    "kind": "software",
+    "desc": ".co registry and it is not a separate product brand.",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-backstage",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-01-30",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-contracts",
+    "kind": "software",
+    "desc": "Ravenhelm Contracts",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-flutter-host",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-08-22",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-llm-api",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-05-31",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-llm-core",
+    "kind": "software",
+    "desc": "ravenhelm-llm-core",
+    "last": "2026-05-27",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-llm-sdk-py",
+    "kind": "software",
+    "desc": "ravenhelm-llm-sdk",
+    "last": "2026-05-28",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-observability-go",
+    "kind": "software",
+    "desc": "Ravenhelm Observability Go",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-observability-py",
+    "kind": "software",
+    "desc": "Ravenhelm Observability Python",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-observability-swift",
+    "kind": "software",
+    "desc": "Ravenhelm Observability Swift",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-observability-ts",
+    "kind": "software",
+    "desc": "Ravenhelm Observability TS",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-oidc-client",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-09",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-sdk-ts",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-08-31",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-ui",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-ui-react",
+    "kind": "software",
+    "desc": "Ravenhelm UI React",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-ui-svelte",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-09-27",
+    "narrated": false
+  },
+  {
+    "name": "ravenmaskos-ccc",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-21",
+    "narrated": false
+  },
+  {
+    "name": "ravenmaskos-ccc-web",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "rdom-method",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-11-19",
+    "narrated": false
+  },
+  {
+    "name": "reclaim-space",
+    "kind": "software",
+    "desc": "reclaim-space",
+    "last": "2026-08-31",
+    "narrated": false
+  },
+  {
+    "name": "resource-monitor",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "rick-flag",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "rlom-method",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-11-19",
+    "narrated": false
+  },
+  {
+    "name": "rnd",
+    "kind": "software",
+    "desc": "RND Platform",
+    "last": "2026-01-19",
+    "narrated": false
+  },
+  {
+    "name": "rrom-method",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-11-19",
+    "narrated": false
+  },
+  {
+    "name": "runestack-ai",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "runestack-bifrost",
+    "kind": "software",
+    "desc": "Bifrost",
+    "last": "2026-08-31",
+    "narrated": false
+  },
+  {
+    "name": "runestack-docs",
+    "kind": "software",
+    "desc": "Runestack Documentation",
+    "last": "2026-05-13",
+    "narrated": false
+  },
+  {
+    "name": "runestack-ui",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-09-14",
+    "narrated": false
+  },
+  {
+    "name": "slack-mcp",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "the-work",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "theviking-camper-dash",
+    "kind": "software",
+    "desc": "theviking-camper-dash",
+    "last": "2026-09-26",
+    "narrated": false
+  },
+  {
+    "name": "thor",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "token-forge",
+    "kind": "software",
+    "desc": "token-forge",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "token-forge-server",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-05-08",
+    "narrated": false
+  },
+  {
+    "name": "user-studio",
+    "kind": "software",
+    "desc": "Purpose: policy guardrails for AI agents working in Ravenhelm repos. This file points to sources of truth and",
+    "last": "2026-01-19",
+    "narrated": false
+  },
+  {
+    "name": "voicebox",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "vordr",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "yggdrasil-rules",
+    "kind": "software",
+    "desc": "yggdrasil-rules",
+    "last": "2026-09-27",
+    "narrated": false
+  },
+  {
+    "name": "ymir",
+    "kind": "software",
+    "desc": "Ymir - AI Self-Improvement Quality Platform",
+    "last": "2026-05-08",
+    "narrated": false
+  },
+  {
+    "name": "zigbee2mqtt-windfront",
+    "kind": "software",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "armory-vault",
+    "kind": "vault",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "clothes-make-the-man-vault",
+    "kind": "vault",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "conspiracy-of-ravens-vault",
+    "kind": "vault",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  },
+  {
+    "name": "hrafngrima-vault",
+    "kind": "vault",
+    "desc": "",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "midgard-vault",
+    "kind": "vault",
+    "desc": "",
+    "last": "2026-10-22",
+    "narrated": false
+  },
+  {
+    "name": "ravenhelm-vault",
+    "kind": "vault",
+    "desc": "",
+    "last": "2026-08-16",
+    "narrated": false
+  },
+  {
+    "name": "vokr-codex-vault",
+    "kind": "vault",
+    "desc": "",
+    "last": "2026-10-13",
+    "narrated": false
+  }
+]

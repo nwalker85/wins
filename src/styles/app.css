@@ -1,0 +1,68 @@
+@import './tokens.css';
+@import 'tailwindcss';
+
+@layer base {
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    background-color: var(--bg);
+    color: var(--text-primary);
+    font-family: var(--font-sans);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+  }
+
+  ::selection {
+    background: var(--primary);
+    color: #ffffff;
+  }
+
+  /* Custom scrollbar matching nwalker.cc */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--bg);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--edge);
+    border-radius: var(--radius-full);
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--text-muted);
+  }
+}
+
+/* Glass & Card Utilities */
+.glass-panel {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.glass-panel-elevated {
+  background: var(--surface);
+  border: 1px solid var(--edge);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+}
+
+.command-card {
+  background: var(--surface-variant);
+  border: 1px solid var(--edge);
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.command-card:hover {
+  background: var(--surface-hover);
+  border-color: rgba(30, 103, 255, 0.35);
+  box-shadow: 0 4px 24px rgba(30, 103, 255, 0.08);
+  transform: translateY(-1px);
+}

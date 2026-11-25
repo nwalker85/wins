@@ -1,0 +1,51 @@
+{
+  "all": {
+    "id": "all",
+    "name": "All Spheres",
+    "short": "All Repos",
+    "leadColor": "#EDE8DC",
+    "desc": "The complete constellation of sovereign repositories, engines, and protocols"
+  },
+  "voice": {
+    "id": "voice",
+    "name": "Voice, Presence & Audio",
+    "short": "Voice & Presence",
+    "leadColor": "#17C97B",
+    "desc": "Conversational turn detection, 3D avatars, causal PCM streaming, local LLM inference & agent telephony"
+  },
+  "sensors": {
+    "id": "sensors",
+    "name": "Perception, Sensors & Telemetry",
+    "short": "Sensors & Telemetry",
+    "leadColor": "#3D5F8F",
+    "desc": "Network observability, NetFlow ClickHouse ingestion, endpoint diagnostics, edge video & hardware bench"
+  },
+  "execution": {
+    "id": "execution",
+    "name": "Flight Deck & Sovereign Execution",
+    "short": "Flight Deck & Execution",
+    "leadColor": "#D2A93B",
+    "desc": "Git Ontic Trace (Got), out-of-band T\u00fdr verification & supervisor seat custody"
+  },
+  "identity": {
+    "id": "identity",
+    "name": "Sovereign Identity & PKI",
+    "short": "Identity & PKI",
+    "leadColor": "#B8BCC4",
+    "desc": "Kanidm POSIX directory authority, macOS kernel DAC, passkeys & SVIDs"
+  },
+  "topology": {
+    "id": "topology",
+    "name": "Topology, Ontology & Governance",
+    "short": "Topology & Governance",
+    "leadColor": "#8C6A3F",
+    "desc": "Celestial hypergraphs, DIS 1.8 ontology schemas, transcription & policy engines"
+  },
+  "platform": {
+    "id": "platform",
+    "name": "Platform, Infrastructure & Tooling",
+    "short": "Platform & Infra",
+    "leadColor": "#8E939B",
+    "desc": "Autonomous Norns runtime, bare-metal provisioning, GitOps & domain modeling"
+  }
+}

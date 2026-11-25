@@ -1,0 +1,33 @@
+{
+  "snapshot": "2026-11-23",
+  "source": "Heimdall device_dim + topology_links (ClickHouse), VLAN registry (Outline ref)",
+  "sites": [
+    {
+      "slug": "asgard",
+      "label": "Primary laboratory"
+    },
+    {
+      "slug": "helheim",
+      "label": "Mobile site"
+    },
+    {
+      "slug": "axt1800-cabin",
+      "label": "Travel network"
+    }
+  ],
+  "devices_catalogued": 628,
+  "named_devices": 239,
+  "system_owned": 46,
+  "vlans": 14,
+  "layers": 7,
+  "flows_last_8_days": 25274296,
+  "retention_days": 8,
+  "services_running": 103,
+  "services_breakdown": {
+    "containers_services_host": 64,
+    "process_compose_workstations": 17,
+    "resident_daemons_workstations": 22,
+    "note": "process-compose is the standard supervisor for local processes; containers only on the services host"
+  },
+  "repositories_under_custody": 238
+}
